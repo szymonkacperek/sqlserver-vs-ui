@@ -1,0 +1,8 @@
+Debug/
+sqlserver-vs-ui/Debug/
+*.db
+*.suo
+*.resx
+*.user
+*.filters
+*.ipch
